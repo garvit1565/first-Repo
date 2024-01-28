@@ -1,0 +1,9 @@
+U for untracked files (new files that git does'nt yet tracked)
+
+M for modified  (changes are made in an existing file)
+
+staged : file is ready to be committed (file is added but not yet committed but ready to be committed)
+
+unmodified : no changes are made
+
+
