@@ -1,4 +1,4 @@
-U for untracked files (new files that git does'nt yet tracked)
+U for untracked files (new files that git doesn't yet tracked)
 
 M for modified  (changes are made in an existing file)
 
